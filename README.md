@@ -13,4 +13,4 @@ A classe tinha muito pouca utilidade.
 
 Solução: Essa classe foi excluída e as duas classes que herdavam ela receberam as informações que ela passava.
 
-#### 2: 
+#### 2: Long Method: 
