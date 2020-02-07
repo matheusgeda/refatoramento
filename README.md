@@ -13,4 +13,5 @@ A classe tinha muito pouca utilidade.
 
 Solução: Essa classe foi excluída e as duas classes que herdavam ela receberam as informações que ela passava.
 
-#### 2: Long Method: 
+#### 2: Long Method:
+O método # client_register() # da classe Clients e o # worker_register() # da classe Workers estavam excessivamente grandes.
