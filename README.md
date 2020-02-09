@@ -18,3 +18,8 @@ A classe tinha muito pouca utilidade.
 O método **client_register()** da classe Clients e o **worker_register()** da classe Workers estavam excessivamente grandes.
 
 **Solução:** Foram criados novos métodos que fazem uma parte do que o método antigo fazia resultando em 2 métodos muito menores.
+
+#### 3: Large Class: https://github.com/matheusgeda/projeto-oo/blob/master/src/Library/Book.java
+A classe **Book** possui muitas linhas de código e métodos.
+
+**Solução:** Foi criada uma subclasse **Book2** e alguns métodos foram colocados lá, reduzindo assim, consideravelmente o tamanho da classe **Book**.
